@@ -298,12 +298,12 @@ display: none;
     color: rgba(19, 53, 123, 0.9);
 }
 }
-@media (max-width:450px) {
-    
-body{
-    width: 500px;
+@media(max-width:450px){
+    body{
+        width: 500px;
+    }
 }
-}
+
 .btn-hover-bg:hover{
     background-color: #FFF;
     color: rgba(19, 53, 123, 0.9);
